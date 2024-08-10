@@ -1,4 +1,4 @@
-### Overview
+### Hello World
 
 This example demonstrates how to create a simple GPUI application that displays a "Hello, World!" message inside a styled window. The application uses GPUI's components to define the UI layout, styling, and behavior.
 
@@ -95,5 +95,7 @@ fn main() {
 ### Summary
 
 This example demonstrates how to use GPUI to create a simple "Hello, World!" application with custom styling and layout. The code sets up a window with specific dimensions and styles a `div` element to display a greeting message centered in the window.
+
+---
 
 If you need further details or additional examples, feel free to ask, or make issues on the [GitHub repository](https://github.com/Himasnhu-AT/GPUI-docs-unofficial)
