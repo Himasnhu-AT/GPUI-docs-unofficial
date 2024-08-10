@@ -6,4 +6,4 @@ git config user.email ""
 cd gh-pages
 git add -A
 git commit -m 'deploy new book'
-git push origin +gh-pages
+git push origin -U +gh-pages
