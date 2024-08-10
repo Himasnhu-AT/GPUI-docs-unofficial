@@ -4,7 +4,8 @@
 
 # Working
 
-- [Installation](./chapter_1.md)
+- [Installation](./installation.md)
+- [Hello World](./hello-world.md)
 
 # Creating Elements
 

@@ -47,7 +47,7 @@ GPUI heavily relies on context parameters (usually named `cx`). Contexts provide
 - **`AsyncAppContext` and `AsyncWindowContext`**: Asynchronous contexts with a static lifetime, allowing interaction with `Model`s and `View`s across `await` points.
 - **`TestAppContext` and `TestVisualContext`**: Testing contexts that provide additional features for simulating platform inputs.
 
-For more information, see the dedicated [Contexts documentation](contexts.md).
+For more information, see the dedicated [Contexts documentation](https://github.com/zed-industries/zed/blob/main/crates/gpui/docs/contexts.md).
 
 ## Additional Features
 
@@ -90,7 +90,7 @@ GPUI emphasizes keyboard-first interactivity. You can bind actions to keys by de
 }
 ```
 
-See the [Key Dispatch documentation](key_dispatch.md) for more details.
+See the [Key Dispatch documentation](https://github.com/zed-industries/zed/blob/main/crates/gpui/docs/key_dispatch.md) for more details.
 
 ## Learning More
 
